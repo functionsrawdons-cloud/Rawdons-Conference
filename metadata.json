@@ -1,0 +1,6 @@
+{
+  "name": "Rawdons Conference Tracker",
+  "description": "Operational readiness, event flow, and banquet order management for Rawdons Hotel, Brewery & Estate conferences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
